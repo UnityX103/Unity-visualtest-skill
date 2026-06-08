@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity Video Visual Test"
+  short_description: "复用 Unity 录像视觉测试包与 ffmpeg 二进制标准件"
+  default_prompt: "Use $unity-visual-video-test to set up or reuse a Unity MP4-based visual test stack with bundled package assets and ffmpeg binaries."

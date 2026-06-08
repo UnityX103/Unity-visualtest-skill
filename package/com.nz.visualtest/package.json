@@ -1,0 +1,10 @@
+{
+  "name": "com.nz.visualtest",
+  "displayName": "NZ Visual Test",
+  "version": "1.0.0",
+  "description": "Unity 视觉测试基类与 FFmpeg 录制能力（含 FFmpegOut 嵌入）",
+  "dependencies": {
+    "com.unity.inputsystem": "1.4.4",
+    "com.unity.test-framework": "1.1.33"
+  }
+}

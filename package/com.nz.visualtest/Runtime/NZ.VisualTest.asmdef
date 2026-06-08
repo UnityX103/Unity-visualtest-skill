@@ -4,11 +4,10 @@
     "references": [
         "Unity.InputSystem",
         "FFmpegOut",
+        "UnityEngine.UI",
         "UnityEngine.TestRunner"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": true,
